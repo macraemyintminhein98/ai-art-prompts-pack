@@ -1,5 +1,7 @@
 # AI Art Prompt Pack
 
-Unlock your creative potential with 50 unique AI art prompts for Midjourney and DALL-E, meticulously categorized for diverse artistic styles. This pack includes expert prompt engineering tips to help you generate stunning, high-quality AI art immediately.
+Unlock stunning AI art effortlessly with our curated collection of 10-15 highly effective prompts for Midjourney/Stable Diffusion. Designed to generate popular aesthetics like 'cyberpunk cityscape at dawn', 'ethereal fantasy forest', and 'vintage sci-fi book cover'. 
 
-Ideal for aspiring digital artists, hobbyists, and content creators looking for inspiration and a shortcut to exceptional AI-generated visuals.
+Each prompt is meticulously tested for quality and consistency, helping you save time and achieve impressive results. Perfect for AI artists, graphic designers, and anyone looking to create captivating visuals.
+
+**Get your pack for just $9.99!**
